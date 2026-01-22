@@ -159,7 +159,7 @@ $catQuery = $conn->query("SELECT * FROM course_categories ORDER BY id ASC");
                 <div class="testimonial-item text-center">
                     <img class="border rounded-circle p-2 mx-auto mb-3" src="img/testimonial-1.jpg"
                          style="width: 80px; height: 80px;">
-                    <h5 class="mb-0">Khushi Raiyani</h5>
+                    <h5 class="mb-0">Krisha patel</h5>
                     <p>Software Developer</p>
                     <div class="testimonial-text bg-light text-center p-4">
                         <p class="mb-0">This platform helped me upskill in web development. The video tutorials are very easy to follow!</p>
@@ -186,7 +186,7 @@ $catQuery = $conn->query("SELECT * FROM course_categories ORDER BY id ASC");
                 <div class="testimonial-item text-center">
                     <img class="border rounded-circle p-2 mx-auto mb-3" src="img/testimonial-4.jpg"
                          style="width: 80px; height: 80px;">
-                    <h5 class="mb-0">Mahi Raiyani</h5>
+                    <h5 class="mb-0">lipsa Vaghashiya</h5>
                     <p>Digital Marketing Executive</p>
                     <div class="testimonial-text bg-light text-center p-4">
                         <p class="mb-0">The marketing courses are up to date and very practical. Highly recommended!</p>
